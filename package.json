@@ -1,0 +1,16 @@
+{
+  "name": "basic_express_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "expresss": "^0.0.0"
+  }
+}
